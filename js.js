@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Skoda Jira Zephyr Hotkeys
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Skoda Jira Zephyr Hotkeys
 // @author       Maksym Kriventsev, Martin Suda, AKKA CZ
 // @match        https://eportal.skoda.vwg/jira/secure/enav/*
 // @match        https://portal.skoda-auto.com/jira/secure/enav/*
 // @match        https://eportal.skoda.vwg/jira/projects/MODFOUR?selectedItem=com.thed.zephyr.je*
 // @match        https://portal.skoda-auto.com/jira/projects/MODFOUR?selectedItem=com.thed.zephyr.je*
+// @updateURL    https://raw.githubusercontent.com/mkriventsev/tampermonkey/master/js.js
+// @downloadURL    https://raw.githubusercontent.com/mkriventsev/tampermonkey/master/js.js
 // @grant        none
 // ==/UserScript==
 

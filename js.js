@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Skoda Jira Zephyr Hotkeys
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  Skoda Jira Zephyr Hotkeys
 // @author       Maksym Kriventsev, Martin Suda, AKKA CZ
 // @match        https://eportal.skoda.vwg/jira/secure/enav/*
